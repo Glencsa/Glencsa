@@ -1,4 +1,7 @@
-## Hi there 👋
+## Welcome to my github homepage.
+## Hi, My name is **Guan Bin**, majoring in computer science. 👋
+🔭 I’m currently studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University.
+🌱 I’m currently learning learning cuda C programming, edge device AI deployment.
 
 <!--
 **Glencsa/Glencsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
