@@ -1,14 +1,31 @@
 ## Welcome to my github homepage.
 ## Hi, My name is **Guan Bin**, majoring in computer science. 👋
-🔭 I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University.
-![image](https://github.com/user-attachments/assets/a7b19bb7-3b4e-4247-b665-54783e6690f6)
+🔭 I’m  studying for a master's degree in surveying and mapping engineering at 
+
+the School of Remote Sensing and Information Engineering, Wuhan University.
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 150px;">
+</div>
 
 🌱 I am interested in learning Cuda C programming and edge device AI deployment.
-![image](https://github.com/user-attachments/assets/3eecb21a-61fa-43d6-ba26-4a3cb5203497)
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/3eecb21a-61fa-43d6-ba26-4a3cb5203497" alt="描述" style="width: 100px;">
+</div>
 
-😄 And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on distributed large model training and optimization.
-![image](https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88)
+😄 And now I'm currently interning at Baidu's Deep Learning Technology Platform 
 
+Department, working on distributed large model training and optimization.
+<div style="text-align: center;">
+    <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 150px;">
+</div>
+
+If there are other internship or collaboration opportunities, please feel free 
+
+to contact me for cooperation and exchange.
+
+💬My phone number is 15993010785.
+
+💬My email is: guanbin@whu.edu.cn
 <!--
 **Glencsa/Glencsa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
