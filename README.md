@@ -1,5 +1,4 @@
-## Welcome to my github homepage.
-## Hi, My name is **Guan Bin**, majoring in computer science. 👋
+## Hi! Welcome to my github homepage, My name is **Guan Bin**, majoring in computer science. 👋
 🔭 I’m  studying for a master's degree in surveying and mapping engineering at 
 the School of Remote Sensing and Information Engineering, Wuhan University.
     <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 100px;">
