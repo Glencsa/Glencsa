@@ -8,6 +8,9 @@ Department, working on distributed large model training and optimization.
  
 <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 200px;"> & <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 200px;">
 
+![Guanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glencsa)
+
+
 
 
     💬My phone number is 15993010785.
