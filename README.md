@@ -1,14 +1,10 @@
 ## Hi! Welcome to my github homepage, My name is **Guan Bin**, majoring in computer science.👋
- I’m  studying for a master's degree in surveying and mapping engineering at 
-the School of Remote Sensing and Information Engineering, Wuhan University.
-And now I'm currently interning at Baidu's Deep Learning Technology Platform 
-Department, working on distributed large model training and optimization.
+#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on distributed large model training and optimization.
 
- If there are other internship or collaboration opportunities, please feel free to contact me for cooperation.
  
 <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 200px;"> & <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 200px;">
 
-![Guanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glencsa)
+![Guanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&theme=radical)
 
 
 
