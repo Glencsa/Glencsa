@@ -1,4 +1,4 @@
-## Hi! Welcome to my github homepage, My name is **Guan Bin**, majoring in computer science.👋
+## Hi! Welcome to my github homepage, My name is **Bin Guan**, majoring in computer science.👋
 #### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on distributed large model training and optimization.
 
  
