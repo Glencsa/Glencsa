@@ -1,21 +1,14 @@
-## Hi! Welcome to my github homepage, My name is **Bin Guan**, majoring in computer science.👋
+## Hi! 👋 Welcome to my github homepage, My name is **Bin Guan**, majoring in computer science.
 #### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on distributed large model training and optimization.
 
- 
-<img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 200px;"> & <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 200px;">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-![Guanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&theme=radical)
-
-
-
-
-    💬My phone number is 15993010785.
-
-    💬My email is: guanbin@whu.edu.cn
-
-
-
-    
+- :orange_book: Focusing on LLM Training & Cuda C
+- :meat_on_bone: AI technology enthusiast
+- <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 70px;">  An atypical CS master in WuHan University.
+- <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 50px;">  <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="描述" style="width: 50px;">
+Internship at Baidu(Paddle Paddle) now.
+- 💬Email: guanbin@whu.edu.cn
 
 
     
@@ -31,6 +24,7 @@
 I am interested in learning Cuda C programming and edge device AI deployment.
 Here are some ideas to get you started:
 
+![Guanbin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&theme=radical)
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
