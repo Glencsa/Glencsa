@@ -3,7 +3,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
-- :orange_book: Focusing on LLM Training & Cuda C
+- :orange_book: Focusing on LLM  & AI infrastructure
 - :meat_on_bone: AI technology enthusiast
 - <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 70px;">  An atypical CS master in WHU.
 - <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 50px;">  <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="描述" style="width: 50px;">
