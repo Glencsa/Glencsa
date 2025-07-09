@@ -1,5 +1,5 @@
 ## Hi! 👋 Welcome to my github homepage, My name is **Bin Guan**, majoring in computer science.
-#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on AI Infrastructure and HPC.
+#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. And now I'm currently interning at Baidu's Deep Learning Technology Platform Department, working on AI Infra and HPC.
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
 
