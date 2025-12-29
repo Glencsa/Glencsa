@@ -1,8 +1,9 @@
 ## Hi!👋 My name is **Guan Bin**, majoring in computer science.
 <!--#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. I interned at Baidu's Deep Learning Technology Platform Department, where I worked on AI infra and high-performance computing (HPC).-->
 
+<!--
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
-
+-->
 - :orange_book: Focusing on LLM  & AI infrastructure
 - :meat_on_bone: AI technology enthusiast
 - <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 70px;">  An atypical CS master in WHU.
