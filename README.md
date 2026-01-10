@@ -1,17 +1,18 @@
 ## Hi!👋 My name is **Guan Bin**, majoring in computer science.
 <!--#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. I interned at Baidu's Deep Learning Technology Platform Department, where I worked on AI infra and high-performance computing (HPC).-->
 
-<!--
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Glencsa&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />
--->
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-ouuan.vercel.app/api?username=Glencsa&theme=dark&show_icons=true">
+    <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Glencsa&show_icons=true">
+</picture>
+
 - :orange_book: Focusing on LLM  & AI infrastructure
 - :meat_on_bone: AI technology enthusiast
-- <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="描述" style="width: 70px;">  An atypical CS master in WHU.
-<!--
-- <img src="https://github.com/user-attachments/assets/87c4dfa1-02a0-4e74-b572-cb6b3737cc88" alt="描述" style="width: 50px;">  <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="描述" style="width: 50px;">
-Previously interned at PaddlePaddle.
-- 💬Email: guanbin@whu.edu.cn
--->
+- <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="whu" style="width: 70px;">  An atypical CS master in WHU.
+- <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="paddle" style="width: 50px;"> Previously interned at PaddlePaddle.
+- <img src="https://github.com/user-attachments/assets/27077456-523c-4a2e-a8ee-3254f9d67f5a" alt="meituan" style="width: 50px;">Soon to join Meituan as a machine learning engine developer.
+
 <!--
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Glencsa/Glencsa/output/github-contribution-grid-snake-dark.svg">
