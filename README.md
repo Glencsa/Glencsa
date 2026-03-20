@@ -7,11 +7,11 @@
     <img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=Glencsa&show_icons=true">
 </picture>
 
-- :orange_book: Focusing on LLM  & AI infrastructure
+- :orange_book: Focusing on HPC  & AI infra
 - :meat_on_bone: AI technology enthusiast
 - <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="whu" style="width: 70px;">  An atypical CS master in WHU.
 - <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="paddle" style="width: 50px;"> Previously interned at PaddlePaddle.
-- <img src="https://github.com/user-attachments/assets/a9b694a3-aa50-4546-bb9a-527981755851" alt="meituan" style="width: 80px;">Soon to join Meituan as a machine learning engine developer.
+- <img src="https://github.com/user-attachments/assets/a9b694a3-aa50-4546-bb9a-527981755851" alt="meituan" style="width: 80px;">AI infra engineer in Meituan(LLM Inference).
 
 <!--
 <picture>
