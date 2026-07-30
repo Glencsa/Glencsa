@@ -1,4 +1,4 @@
-## Hi!👋 My name is **Guan Bin**, majoring in computer science.
+## Hi!👋 My name is **Guan Bin**
 <!--#### I’m  studying for a master's degree in surveying and mapping engineering at the School of Remote Sensing and Information Engineering, Wuhan University. I interned at Baidu's Deep Learning Technology Platform Department, where I worked on AI infra and high-performance computing (HPC).-->
 
 
