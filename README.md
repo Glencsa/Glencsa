@@ -22,7 +22,8 @@
 -->
 
 
-
+#### Publications
+- **Hi-Nav: Hierarchical Framework for Continuous Vision-Language Navigation via Map Guidance and Waypoint Reasoning**, *co-author*, accepted by **ECCV 2026**.
 
     
 
