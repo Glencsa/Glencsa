@@ -12,6 +12,7 @@
 - <img src="https://github.com/user-attachments/assets/a0980b83-a502-41d9-90d7-b22d3595fe2c" alt="whu" style="width: 70px;">  An atypical CS master in WHU.
 - <img src="https://github.com/user-attachments/assets/ac6dc6f4-a129-40c3-91b9-7187a5986f33" alt="paddle" style="width: 50px;"> Previously interned at PaddlePaddle.
 - <img src="https://github.com/user-attachments/assets/a9b694a3-aa50-4546-bb9a-527981755851" alt="meituan" style="width: 80px;">AI infra.
+- Feel free to contact me to brainstorm together.：glencsa@outlook.com
 
 <!--
 <picture>
